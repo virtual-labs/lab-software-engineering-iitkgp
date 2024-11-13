@@ -82,7 +82,15 @@
             "deploy": true
         }
     ],
-    "targetAudience": "Undergraduate students and Post-graduate students of of Computer Science and Engineering",
+    "targetAudience": {
+  "UG":[
+    "Undergraduate students students of Computer Science and Engineering"
+  ],
+    "PG": [
+      "Post-graduate students of Computer Science and Engineering"
+    ]
+  },
+    
     "objective":"The Software Engineering Virtual Lab has been developed by keeping in mind the following objectives: /n - To impart state-of-the-art knowledge on Software Engineering and UML in an interactive manner through the Web /n - Present case studies to demonstrate the practical applications of different concepts /n - Provide a scope to the students where they can solve small, real life problems /n - All the while it is intended to present Software Engineering as an interesting subject to the students where learning and fun can go alongside.",   
     "courseAlignment": {
         "description": "The lab contents are chosen such that it covers the syllabi of the software engineering course's of various universities",
