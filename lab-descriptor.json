@@ -6,7 +6,7 @@
     },
     "lab": "Software Engineering",
     "lab_display_name": "Software Engineering",
-    "phase": 3,
+    "phase": 2,
     "collegeName": "IITKGP",
     "baseUrl": "se-iitkgp.vlabs.ac.in",
     "introduction": "Research analysis manifests clear trends of growing interest of the Computer Science students towards e-learning. To keep this trend as well as the pace with the rapid advancement of software technologies, the Software Engineering Virtual Lab has been developed. This lab attempts to provide basic concepts to the students on a wide range of topics including Requirements analysis, ER modeling, identification of domain classes, use-case diagrams and designing a test suite. Ample illustrations and simulations are used to reinforce one's understanding. Once the concepts are clear, a set of exercises given on the concerned topics would help the students to evaluate themselves and their progress of learning. The main focus is to enable the students to interact with the virtual teacher in an effective and efficient manner compared to how they would do in a real lab on the subject.",
