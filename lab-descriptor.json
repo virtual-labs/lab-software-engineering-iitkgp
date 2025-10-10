@@ -15,21 +15,21 @@
             "name": "Identifying the Requirements from Problem Statements",
             "short-name": "problem-statements",
             "repo": "https://github.com/virtual-labs/exp-Identifying-requirements-from-problem-statements-iitkgp",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
             "name": "Estimation of Project Metrics",
             "short-name": "project-metrics",
             "repo": "https://github.com/virtual-labs/exp-estimation-project-metrics-iitkgp",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
             "name": "Modeling UML Use Case Diagrams and Capturing Use Case Scenarios",
             "short-name": "modeling-uml",
             "repo": "https://github.com/virtual-labs/exp-modeling-uml-use-case-diagrams-iitkgp",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
@@ -64,7 +64,7 @@
             "name": "Modeling Data Flow Diagrams",
             "short-name": "modeling-data-flow",
             "repo": "https://github.com/virtual-labs/exp-modeling-data-flow-diagrams-iitkgp",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
