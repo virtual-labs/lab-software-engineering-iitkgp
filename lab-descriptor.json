@@ -78,7 +78,7 @@
             "name": "Designing Test Suites",
             "short-name": "designing-test-suites",
             "repo": "https://github.com/virtual-labs/exp-designing-test-suites-iitkgp",
-            "tag": "v1.0.1",
+            "tag": "v1.0.2",
             "deploy": true
         }
     ],
